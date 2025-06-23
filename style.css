@@ -1,7 +1,8 @@
 body{ 
 color: red;
 background-color: yellowgreen;
-margin- 0px;
+margin: 0px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 header{
 border-bottom:solid 2px rgb(42,122,228);
