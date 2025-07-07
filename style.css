@@ -1,7 +1,10 @@
 body{ 
 color: red;
-background-color: yellowgreen;
-margin: 0px;
+background-color: rgb(253, 110, 134);
+margin: 0px;}
+body{
+display: block;
+margin: 8px;}
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 header{
