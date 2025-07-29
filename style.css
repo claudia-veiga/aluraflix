@@ -1,14 +1,18 @@
 body{ 
 color: red;
-background-color: rgb(253, 110, 134);
-margin: 0px;}
-body{
-display: block;
-margin: 8px;}
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: yellowgreen;
+margin- 0px;
 }
 header{
 border-bottom:solid 2px rgb(42,122,228);
 margin:20px ;
 font-size: 60px;
+}
+img{
+    height: 200px;
+}
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
